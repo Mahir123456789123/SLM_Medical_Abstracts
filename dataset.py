@@ -6,7 +6,7 @@ import re
 # LOAD DATASET
 # =========================================================
 
-INPUT_FILE = "./archive/pubmed_abstracts.csv"
+INPUT_FILE = "./pubmed_dataset/pubmed_abstracts.csv"
 OUTPUT_FILE = "pubmed_corpus.txt"
 
 df = pd.read_csv(INPUT_FILE)
