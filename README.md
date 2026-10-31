@@ -19,8 +19,7 @@ The goal is not to compete with large general-purpose models. It is to build a s
 7. [What the model learned, and where it fails](#what-the-model-learned-and-where-it-fails)
 8. [Repository contents](#repository-contents)
 9. [How to run](#how-to-run)
-10. [Possible improvements](#possible-improvements)
-11. [Acknowledgements and licence](#acknowledgements-and-licence)
+10. [Acknowledgements and licence](#acknowledgements-and-licence)
 
 ---
 
